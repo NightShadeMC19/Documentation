@@ -411,7 +411,7 @@ memory-limit
 ==========================  =========
 Type                        Default
 ==========================  =========
-integer (plus unit suffix)  128M
+integer (plus unit suffix)  200M
 ==========================  =========
 
 Maximum memory that the server will allocate. The server won't work correctly with less than 128M
